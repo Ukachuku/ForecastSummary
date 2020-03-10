@@ -1,2 +1,6 @@
 # ForecastSummary
-Automating the Forecast process for sales team
+---
+###Instructions:
+
+1. Run RScript
+
