@@ -1,4 +1,4 @@
-# ForecastSummary
+# Forecast Summary
 ---
 ### Instructions:
 Run R Script to get alldata.csv
